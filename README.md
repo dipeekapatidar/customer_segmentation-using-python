@@ -1,4 +1,4 @@
-# customer_segmentation-using-python# Customer Segmentation Dashboard
+# Customer Segmentation Dashboard
 
 A small Streamlit project that groups customers into segments and turns the groups into business advice.
 
